@@ -1,0 +1,51 @@
+html, body, canvas, h1, ul, li {
+  padding: 0px;
+  margin: 0px;
+  font: inherit;
+  font-family: inherit;
+}
+body {
+  background: #ccc;
+}
+ul {
+
+  list-style: none;
+
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  padding: 20px;
+  font-family: Orbitron;
+  font-weight: 900;
+  color: #031159;
+}
+
+.game {
+  width: 810px;
+  margin: 20px auto;
+}
+
+#game-canvas {
+  border: 5px solid #444;
+  border-radius: 10px;
+}
+
+.instructions{
+  margin-top: 10px;
+  font-family: Orbitron;
+  font-size: 20px;
+  font-weight: 400;
+  color: #0f0;
+  padding: 20px 50px;
+  background: #031159;
+  border: 5px solid #444;
+  border-radius: 10px;
+}
+
+.instructions > li {
+  padding:5px 0;
+}
+
+.
