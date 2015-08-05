@@ -1,4 +1,5 @@
-# ASTEROIDS [Play Game](http://www.gregorykane.co/asteroids) (Link is not yet set up)
+# ASTEROIDS [Play Game](http://www.gregorykane.co/asteroids)
+(Link is not yet set up)
 
 This is a game based on the arcade classic built for the browser
 using JavaScript and HTML5 Canvas.  The ship and asteroids will
@@ -28,7 +29,7 @@ current vertical velocity.
 
 ### To Do's
 
-[ ] Split asteroids into smaller ones on first impact
-[ ] Bind arrow keys for a secondary ship movement
-[ ] Allow for 2-player mode
-[ ] Keep track of high score with user initials input
+*[ ] Split asteroids into smaller ones on first impact
+*[ ] Bind arrow keys for a secondary ship movement
+*[ ] Allow for 2-player mode
+*[ ] Keep track of high score with user initials input
