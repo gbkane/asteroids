@@ -1,4 +1,4 @@
-# ASTEROIDS
+# ASTEROIDS [Play Game](http://www.gregorykane.co/asteroids) (Link is not yet set up)
 
 This is a game based on the arcade classic built for the browser
 using JavaScript and HTML5 Canvas.  The ship and asteroids will
