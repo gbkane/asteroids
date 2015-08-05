@@ -29,7 +29,7 @@ current vertical velocity.
 
 ### To Do's
 
-*[ ] Split asteroids into smaller ones on first impact
-*[ ] Bind arrow keys for a secondary ship movement
-*[ ] Allow for 2-player mode
-*[ ] Keep track of high score with user initials input
+* [ ] Split asteroids into smaller ones on first impact
+* [ ] Bind arrow keys for a secondary ship movement
+* [ ] Allow for 2-player mode
+* [ ] Keep track of high score with user initials input
