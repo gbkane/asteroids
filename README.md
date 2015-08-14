@@ -31,6 +31,6 @@ current vertical velocity.
 * [x] Split asteroids into smaller ones on first impact
 * [x] Add explosions for hit asteroids
 * [x] Bind arrow keys for a secondary ship movement
-* [ ] Time delay after ship is hit
+* [x] Time delay after ship is hit
 * [ ] Allow for 2-player mode
 * [ ] Keep track of high score with user initials input
